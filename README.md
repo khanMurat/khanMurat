@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanMurat
 - 👀 I’m interested in MOBILE DEVELOPMENT
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently learning Flutter/Dart and Swift
 - 📫 How to reach me https://www.linkedin.com/in/murat-ala-/
 
 <!---
