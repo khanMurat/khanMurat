@@ -7,8 +7,7 @@ class ReadMe {
                                       
     var bio: String? = "I started my career as a Mechanical Engineer and transitioned to Mobile Application Development over the past two years.During this time,I have been continuously enhancing my skills in software development. I combine my analytical skills from my engineering background with my deep interest in software development. My journey from engineering to iOS development is a testament to my adaptability, endless curiosity, and commitment to continuous learning.I am eager to use my diverse skills to create impactful solutions in the technology world. I am ready to contribute, innovate, and grow in a dynamic software development environment."
 }
-
-
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmurat&label=Profile%20views&color=0e75b6&style=flat" alt="khanmurat" /> </p>
 
 - 🌱 I’m currently learning **Swift**
