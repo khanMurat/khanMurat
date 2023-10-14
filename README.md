@@ -16,7 +16,7 @@ and commitment to continuous learning.
     I am ready to contribute, innovate, and grow in a dynamic software development environment."
 }
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmurat&label=Profile%20views&color=0e75b6&style=flat" alt="khanmurat" /> </p>
+
 
 - 🌱 I’m currently learning **Swift**
 
