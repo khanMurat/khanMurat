@@ -17,7 +17,7 @@ and commitment to continuous learning.
 }
 ```
 
-- I'm currently working on InventionLand MENA
+- I'm currently working on Getir
 
 - 🌱 I’m currently learning **Swift** ***SwiftUI***
 
